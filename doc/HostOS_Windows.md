@@ -1,6 +1,6 @@
 # Windows 宿主机操作系统
 
- [返回自述](https://github.com/david921518/qkd-app/blob/master/README.md)
+ [返回自述](https://gitlab.com/david921518/qkd-app/blob/gitlab/README.md)
  
 ## 系统配置
  **乾坤袋** 软件仅支持Windows 10及以上版本的操作系统，硬件配置要求如下
