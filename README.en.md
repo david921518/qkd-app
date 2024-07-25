@@ -27,9 +27,14 @@
 ## GuestOS
 | Operating System | Link |
 |------------------|------|
+| OpenWrt 23.05 (x86_64) | [Link](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_OpenWrt2305_x86_64.en.md) |
 | Windows 10 Pro (X86-64) | [Link](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_Windows10_Pro_x64.en.md) |
 | Debian 12 (X86-64) | [Link](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_Debian12_amd64.en.md) |
 | macOS 12 Monterey (x86_64) | [Link](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_macOS12_Monterey_x86_64.en.md) |
 | Android API 33 Pixel8 (x86_64) | [Link](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_Android_API_33_Pixel8_x86_64.en.md) |
-| iOS 16.2 iPhone14 (x86_64) | [Link](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_iOS_16_2_iPhone14_x86_64.en.md) |
 | OpenHarmonryOS 4.1 (X86-64) | [Link](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_OHOS4_amd64.en.md) |
+
+## VMOS Examples
+| Examples | Link |
+|---------|------|
+| Config List | [Link](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/README.en.md) |
