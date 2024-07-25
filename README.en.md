@@ -6,30 +6,30 @@
 ## README
 | Language | Link |
 |----------|------|
-| Simple Chinese | [Link](https://github.com/david921518/qkd-app/blob/master/README.md) |
-| English | [Link](https://github.com/david921518/qkd-app/blob/master/README.en.md) |
+| Simple Chinese | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/README.md) |
+| English | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/README.en.md) |
 
 ## HostOS_
 | Operating System | Link |
 |------------------|------|
-| Windows  | [Link](https://github.com/david921518/qkd-app/blob/master/doc/HostOS_Windows.en.md) |
-| Linux | [Link](https://github.com/david921518/qkd-app/blob/master/doc/HostOS_Linux.en.md) |
-| macOS | [Link](https://github.com/david921518/qkd-app/blob/master/doc/HostOS_macOS.en.md) |
-| Android | [Link](https://github.com/david921518/qkd-app/blob/master/doc/HostOS_Android.en.md) |
+| Windows  | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/doc/HostOS_Windows.en.md) |
+| Linux | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/doc/HostOS_Linux.en.md) |
+| macOS | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/doc/HostOS_macOS.en.md) |
+| Android | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/doc/HostOS_Android.en.md) |
 | iOS | [Link](https://github.com/zetalabs/HostOS_iOS.en.md) |
-| OpenHarmonyOS | [Link](https://github.com/david921518/qkd-app/blob/master/doc/HostOS_OHOS.en.md) |
+| OpenHarmonyOS | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/doc/HostOS_OHOS.en.md) |
 
 ## Virtual Machine System
 | System Hardware Architecture | Link |
 |------------------------------|------|
-| Q35 machine (x86_64) | [Link](https://github.com/david921518/qkd-app/blob/master/doc/VM_X86_64_Q35.en.md) |
+| Q35 machine (x86_64) | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/doc/VM_X86_64_Q35.en.md) |
 
 ## GuestOS
 | Operating System | Link |
 |------------------|------|
-| Windows 10 Pro (X86-64) | [Link](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_Windows10_Pro_x64.en.md) |
-| Debian 12 (X86-64) | [Link](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_Debian12_amd64.en.md) |
-| macOS 12 Monterey (x86_64) | [Link](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_macOS12_Monterey_x86_64.en.md) |
-| Android API 33 Pixel8 (x86_64) | [Link](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_Android_API_33_Pixel8_x86_64.en.md) |
-| iOS 16.2 iPhone14 (x86_64) | [Link](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_iOS_16_2_iPhone14_x86_64.en.md) |
-| OpenHarmonryOS 4.1 (X86-64) | [Link](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_OHOS4_amd64.en.md) |
+| Windows 10 Pro (X86-64) | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/doc/GuestOS_Windows10_Pro_x64.en.md) |
+| Debian 12 (X86-64) | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/doc/GuestOS_Debian12_amd64.en.md) |
+| macOS 12 Monterey (x86_64) | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/doc/GuestOS_macOS12_Monterey_x86_64.en.md) |
+| Android API 33 Pixel8 (x86_64) | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/doc/GuestOS_Android_API_33_Pixel8_x86_64.en.md) |
+| iOS 16.2 iPhone14 (x86_64) | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/doc/GuestOS_iOS_16_2_iPhone14_x86_64.en.md) |
+| OpenHarmonryOS 4.1 (X86-64) | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/doc/GuestOS_OHOS4_amd64.en.md) |
