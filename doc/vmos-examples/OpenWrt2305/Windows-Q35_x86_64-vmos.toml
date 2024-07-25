@@ -1,0 +1,135 @@
+# filename = "Windows-Q35_x86_64-vmos.toml"
+[vmos]
+name = "OpenWrt-YZ"
+host_arch = "x86_64"
+host_os = "Windows"
+guest_arch = "x86_64"
+guest_os = "OpenWrt"
+guest_ui = "https://localhost:50443/"
+emulator = "QEMU"
+emulator_ver = "8.2.0"
+emulator_exec = "qemu-system-x86_64.exe"
+# emulator_path = ""
+emulator_ui = "tcp:localhost:56666"
+debug = "on"
+
+# https://www.qemu.org/docs/master/system/invocation.html
+[qemu]
+version = "8.2.0"
+
+# Standard options
+#[[qemu.args]]
+#-version = "8.2.0"
+
+[[qemu.args]]
+-machine = "q35"
+-cpu = "Penryn,vendor=GenuineIntel,+ssse3,+sse4.2,+popcnt,+avx,+aes,+xsave,+xsaveopt,check"
+-accel = "whpx,kernel-irqchip=off"
+-smp = "2,sockets=1,cores=2,threads=1,maxcpus=2"
+-global = [ "isa-debugcon.iobase=0x402" ]
+-m = "1G"
+-device = [
+    "e1000,netdev=hn0,id=nic1",
+    "e1000,netdev=hn1,id=nic2"
+    ]
+-name = "OpenWrt-YZ"
+
+# Block device options
+#[[qemu.args]]
+-hda = "openwrt-23.05.3-x86-64-generic-ext4-combined-efi-qkd-yz.img"
+
+# USB convenience options
+#[[qemu.args]]
+
+# Display options
+#[[qemu.args]]
+-display = [ "none" ]
+
+# i386 target only
+#[[qemu.args]]
+#-win2k-hack = ""
+#-no-fd-bootchk = ""
+#-acpitable = "sig=str"
+
+# Network options
+#[[qemu.args]]
+#-nic = [ "user,ipv6=off,model=e1000,mac=52:54:98:76:54:32" ]
+-netdev = [
+    "user,id=hn0",
+    "user,id=hn1,hostfwd=tcp::50022-:50022,hostfwd=tcp::50443-:50443,hostfwd=tcp::57681-:57681,hostfwd=tcp::80-:80,hostfwd=tcp::443-:443,dns=1.1.1.1"
+    ]
+
+# Character device options
+#[[qemu.args]]
+-chardev = [ "socket,id=mon1,host=localhost,port=56666,server=on,wait=off" ]
+
+# TPM device options
+#[[qemu.args]]
+#-tpmdev = [
+#    "passthrough,id=tpm0 -device tpm-tis,tpmdev=tpm0",
+#    "emulator,id=tpm0,chardev=chrtpm"
+#    ]
+
+# Boot Image or Kernel specific
+#[[qemu.args]]
+-bios = "data/OVMF.fd"
+#-pflash = [ "file" ]
+#-kernel = "bzImage"
+#-append = "cmdline"
+#-initrd = "file"
+#-dtb = "file"
+
+# Debug/Expert options
+#[[qemu.args]]
+#-compat = [ "deprecated-input=reject" ]
+#-fw_cfg = [ "name=opt/com.mycompany/blob,file=./my_blob.bin" ]
+#-serial = [ "tcp:192.168.0.2:4444" ]
+#-parallel = [ "none" ]
+#-monitor = "dev"
+# -qmp = "tcp:localhost:54444,server=on,wait=off"
+# -qmp-pretty = "tcp:localhost:55555,server=on,wait=off"
+-mon = "chardev=mon1,mode=control,pretty=off"
+-debugcon = "file:debug.log"
+-pidfile = "qemu.pid"
+#-preconfig = ""
+#-overcommit = [ "mem-lock=on","cpu-pm=on" ]
+#-gdb = "dev"
+#-d = [ "item1" ]
+-D = "qemu.log"
+#-dfilter = [ "range1" ]
+#-seed = "number"
+-L = "data"
+#-enable-kvm = ""
+#-xen-domid = "id"
+#-xen-attach = ""
+#-no-reboot = ""
+#-no-shutdown = ""
+#-action = [ "panic=none", "reboot=shutdown,shutdown=pause" ]
+#-loadvm = "file"
+#-daemonize = ""
+#-option-rom = [ "file" ]
+-rtc = "base=localtime,driftfix=slew"
+#-icount = "auto,align=on"
+#-watchdog-action = "pause"
+#-echr = [ "0x14", "20" ]
+#-incoming = [ "unix:socketpath", "defer" ]
+#-only-migratable = ""
+#-nodefaults = ""
+#-prom-env = [ "boot-args=linux single" ]
+#-semihosting = ""
+#-semihosting-config = [ "enable=on,target=native" ]
+#-sandbox = [ "obsolete=string" ]
+#-readconfig = "file"
+#-no-user-config = ""
+#-trace = [ "enable=PATTERN", "file=FILE" ]
+#-plugin = [ "file=file,argname=argvalue" ]
+#-run-with = "user=username"
+#-msg = "timestamp=on,guest-name=on"
+#-dump-vmstate = "file"
+#-enable-sync-profile = ""
+#-perfmap = ""
+#-jitdump = ""
+
+# Generic object creation
+#[[qemu.args]]
+#-object = [ "memory-backend-file,id=id,size=size,mem-path=dir,share=on" ]
