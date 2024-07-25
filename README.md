@@ -27,9 +27,14 @@
 ## 虚拟目标操作系统 (GuestOS)
 | 操作系统 | 链接 |
 |---------|------|
+| OpenWrt 23.05 (x86_64) | [系统自述](https://gitcode.com/david921518/qkd-app/blob/gitcode/doc/GuestOS_OpenWrt2305_x86_64.md) |
 | Windows 10 专业版 (x86_64) | [系统自述](https://gitcode.com/david921518/qkd-app/blob/gitcode/doc/GuestOS_Windows10_Pro_x64.md) |
 | Debian 12 (x86_64) | [系统自述](https://gitcode.com/david921518/qkd-app/blob/gitcode/doc/GuestOS_Debian12_amd64.md) |
 | macOS 12 Monterey (x86_64) | [系统自述](https://gitcode.com/david921518/qkd-app/blob/gitcode/doc/GuestOS_macOS12_Monterey_x86_64.md) |
 | Android API 33 Pixel8 (x86_64) | [系统自述](https://gitcode.com/david921518/qkd-app/blob/gitcode/doc/GuestOS_Android_API_33_Pixel8_x86_64.md) |
-| iOS 16.2 iPhone14 (x86_64) | [系统自述](https://gitcode.com/david921518/qkd-app/blob/gitcode/doc/GuestOS_iOS_16_2_iPhone14_x86_64.md) |
 | 开源鸿蒙 4.1 (x86_64) | [系统自述](https://gitcode.com/david921518/qkd-app/blob/gitcode/doc/GuestOS_OHOS4_amd64.md) |
+
+## 虚拟机系统实例（VMOS）
+| 实例 | 链接 |
+|---------|------|
+| 配置文件列表 | [链接](https://github.com/david921518/qkd-app/edit/master/doc/vmos-examples/README.md) |
