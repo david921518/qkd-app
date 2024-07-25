@@ -37,4 +37,4 @@
 ## 虚拟机系统实例（VMOS）
 | 实例 | 链接 |
 |---------|------|
-| 配置文件列表 | [链接](https://github.com/david921518/qkd-app/edit/master/doc/vmos-examples/README.md) |
+| 配置文件列表 | [链接](https://gitcode.com/david921518/qkd-app/blob/gitcode/doc/vmos-examples/README.md) |
