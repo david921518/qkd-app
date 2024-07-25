@@ -1,5 +1,5 @@
 # Windows 10 专业版 x64 虚拟目标操作系统
-  [返回自述](https://github.com/david921518/qkd-app/blob/master/README.md)
+  [返回自述](https://gitcode.com/david921518/qkd-app/blob/gitcode/README.md)
   
 ## 默认虚拟机
  采用Intel Q35芯片组的主板
