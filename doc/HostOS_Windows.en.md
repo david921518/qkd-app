@@ -1,5 +1,5 @@
 # Windows HostOS
-  [return to README](https://gitlab.com/david921518/qkd-app/blob/gitlab/README.en.md)
+  [return to README](https://github.com/david921518/qkd-app/blob/master/README.en.md)
   
 ## System Requirement
   **QianKunDai** app only supports Windows 10 Pro edition and higher version, hardware configuration requirements are shown in the table below

@@ -6,30 +6,30 @@
 ## 自述 (README)
 | 语言 | 链接 |
 |------|------|
-| 中文 | [链接](https://gitlab.com/david921518/qkd-app/blob/gitlab/README.md) |
-| 英文 (English) | [链接](https://gitlab.com/david921518/qkd-app/blob/gitlab/README.en.md) |
+| 中文 | [链接](https://github.com/david921518/qkd-app/blob/master/README.md) |
+| 英文 (English) | [链接](https://github.com/david921518/qkd-app/blob/master/README.en.md) |
 
 ## 宿主机操作系统 (HostOS)
 | 操作系统 | 链接 |
 |---------|------|
-| Windows  | [链接](https://gitlab.com/david921518/qkd-app/blob/gitlab/doc/HostOS_Windows.md) |
-| Linux | [链接](https://gitlab.com/david921518/qkd-app/blob/gitlab/doc/HostOS_Linux.md) |
-| macOS | [链接](https://gitlab.com/david921518/qkd-app/blob/gitlab/doc/HostOS_macOS.md) |
-| Android | [链接](https://gitlab.com/david921518/qkd-app/blob/gitlab/doc/HostOS_Android.md) |
-| iOS | [链接](https://gitlab.com/david921518/qkd-app/blob/gitlab/doc/HostOS_iOS.md) |
-| 开源鸿蒙 | [链接](https://gitlab.com/david921518/qkd-app/blob/gitlab/doc/HostOS_OHOS.md) |
+| Windows  | [链接](https://github.com/david921518/qkd-app/blob/master/doc/HostOS_Windows.md) |
+| Linux | [链接](https://github.com/david921518/qkd-app/blob/master/doc/HostOS_Linux.md) |
+| macOS | [链接](https://github.com/david921518/qkd-app/blob/master/doc/HostOS_macOS.md) |
+| Android | [链接](https://github.com/david921518/qkd-app/blob/master/doc/HostOS_Android.md) |
+| iOS | [链接](https://github.com/david921518/qkd-app/blob/master/doc/HostOS_iOS.md) |
+| 开源鸿蒙 | [链接](https://github.com/david921518/qkd-app/blob/master/doc/HostOS_OHOS.md) |
 
 ## 虚拟机系统 (Virtual Machine System)
 | 硬件系统架构 | 链接 |
 |--------------|------|
-| Q35主机 (x86_64) | [链接](https://gitlab.com/david921518/qkd-app/blob/gitlab/doc/VM_X86_64_Q35.md) |
+| Q35主机 (x86_64) | [链接](https://github.com/david921518/qkd-app/blob/master/doc/VM_X86_64_Q35.md) |
 
 ## 虚拟目标操作系统 (GuestOS)
 | 操作系统 | 链接 |
 |---------|------|
-| Windows 10 专业版 (x86_64) | [系统自述](https://gitlab.com/david921518/qkd-app/blob/gitlab/doc/GuestOS_Windows10_Pro_x64.md) |
-| Debian 12 (x86_64) | [系统自述](https://gitlab.com/david921518/qkd-app/blob/gitlab/doc/GuestOS_Debian12_amd64.md) |
-| macOS 12 Monterey (x86_64) | [系统自述](https://gitlab.com/david921518/qkd-app/blob/gitlab/doc/GuestOS_macOS12_Monterey_x86_64.md) |
-| Android API 33 Pixel8 (x86_64) | [系统自述](https://gitlab.com/david921518/qkd-app/blob/gitlab/doc/GuestOS_Android_API_33_Pixel8_x86_64.md) |
-| iOS 16.2 iPhone14 (x86_64) | [系统自述](https://gitlab.com/david921518/qkd-app/blob/gitlab/doc/GuestOS_iOS_16_2_iPhone14_x86_64.md) |
-| 开源鸿蒙 4.1 (x86_64) | [系统自述](https://gitlab.com/david921518/qkd-app/blob/gitlab/doc/GuestOS_OHOS4_amd64.md) |
+| Windows 10 专业版 (x86_64) | [系统自述](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_Windows10_Pro_x64.md) |
+| Debian 12 (x86_64) | [系统自述](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_Debian12_amd64.md) |
+| macOS 12 Monterey (x86_64) | [系统自述](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_macOS12_Monterey_x86_64.md) |
+| Android API 33 Pixel8 (x86_64) | [系统自述](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_Android_API_33_Pixel8_x86_64.md) |
+| iOS 16.2 iPhone14 (x86_64) | [系统自述](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_iOS_16_2_iPhone14_x86_64.md) |
+| 开源鸿蒙 4.1 (x86_64) | [系统自述](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_OHOS4_amd64.md) |
