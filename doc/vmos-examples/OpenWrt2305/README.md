@@ -18,8 +18,8 @@ armvirt 64 variant 主板
 |-----|------|
 | CPU | ARM cortex-a57 |
 | 内存 | 128M |
-| 网卡1 | 英特尔 E1000 (Intel 82540EM GigaNet) |
-| 网卡2 | 英特尔 E1000 (Intel 82540EM GigaNet) |
+| 网卡1 | 英特尔 E1000E (Intel 82574 GigaNet) |
+| 网卡2 | 英特尔 E1000E (Intel 82574 GigaNet) |
 | 硬盘控制器 | virtio-blk-pci 控制器 |
 | 硬盘 | QEMU 硬盘 (容量 20G) |
 | DVD/CD-ROM | QEMU DVD-ROM |
