@@ -7,8 +7,8 @@
 |----------|---------------|
 | CPU | Intel Core2 i3 |
 | RAM | 1G |
-| Network Card 1 | Intel E1000 (Intel 82540EM Giga) |
-| Network Card 2 | Intel E1000 (Intel 82540EM Giga) |
+| Network Card 1 | Intel E1000 (Intel 82540EM Gigabit Ethernet Controller) |
+| Network Card 2 | Intel E1000 (Intel 82540EM Gigabit Ethernet Controller) |
 | SATA Controller | Intel ICH9 AHCI (Intel 82801IR/IO/IH SATA Controller) |
 | Hard Disk | QEMU HARDDISK (Storage size 20G) |
 | DVD/CD-ROM | QEMU DVD-ROM |
@@ -18,8 +18,8 @@
 |----------|---------------|
 | CPU | ARM cortex-a57 |
 | RAM | 128M |
-| Network Card 1 | Intel E1000 (Intel 82540EM Giga) |
-| Network Card 2 | Intel E1000 (Intel 82540EM Giga) |
+| Network Card 1 | Intel E1000E (Intel 82574 Gigabit Ethernet Controller) |
+| Network Card 2 | Intel E1000E (Intel 82574 Gigabit Ethernet Controller) |
 | SATA Controller | virtio-blk-pci Controller |
 | Hard Disk | QEMU HARDDISK (Storage size 20G) |
 | DVD/CD-ROM | QEMU DVD-ROM |
