@@ -20,15 +20,15 @@
 | RAM | 128M |
 | Network Card 1 | Intel E1000 (Intel 82540EM Giga) |
 | Network Card 2 | Intel E1000 (Intel 82540EM Giga) |
-| SATA Controller | virtio-blk-pci Controller) |
+| SATA Controller | virtio-blk-pci Controller |
 | Hard Disk | QEMU HARDDISK (Storage size 20G) |
 | DVD/CD-ROM | QEMU DVD-ROM |
 
 MIPS Technologies Incorporation Malta CoreLV board
 | Hardware | Configuration |
 |----------|---------------|
-| CPU | MIPS 24Kf |
-| RAM | 128M |
+| CPU | MIPS 24Kc |
+| RAM | 256M |
 | Network Card 1 | AMD PCnet32 (AMD Am79C973 Fast Ethernet Controller) |
 | Network Card 2 | AMD PCnet32 (AMD Am79C973 Fast Ethernet Controller) |
 | IDE Controller | Intel PIIX4E IDE mode (Intel 82371EB PCI-IDE Controller) |
