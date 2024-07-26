@@ -4,12 +4,12 @@
 ## 默认虚拟机
  采用Intel Q35芯片组的主板
 | 硬件 | 配置 |
-|-----|------|
+|------|------|
 | CPU | Intel 酷睿2 i3 |
 | 内存 | 1G |
 | 网卡1 | 英特尔 E1000 (Intel 82540EM GigaNet) |
 | 网卡2 | 英特尔 E1000 (Intel 82540EM GigaNet) |
-| 硬盘控制器 | 英特尔 ICH9 AHCI 模式(Intel 82801IR/IO/IH SATA 控制器) |
+| 硬盘控制器 | 英特尔 ICH9 AHCI 模式 (Intel 82801IR/IO/IH SATA 控制器) |
 | 硬盘 | QEMU 硬盘 (容量 20G) |
 | DVD/CD-ROM | QEMU DVD-ROM |
 
@@ -20,18 +20,18 @@ armvirt 64 variant 主板
 | 内存 | 128M |
 | 网卡1 | 英特尔 E1000 (Intel 82540EM GigaNet) |
 | 网卡2 | 英特尔 E1000 (Intel 82540EM GigaNet) |
-| 硬盘控制器 | virtio-blk-pci 控制器) |
+| 硬盘控制器 | virtio-blk-pci 控制器 |
 | 硬盘 | QEMU 硬盘 (容量 20G) |
 | DVD/CD-ROM | QEMU DVD-ROM |
 
 MIPS Technologies Incorporation Malta CoreLV 主板
 | 硬件 | 配置 |
-|-----|------|
-| CPU | MIPS 24Kf |
-| 内存 | 128M |
+|------|------|
+| CPU | MIPS 24Kc |
+| 内存 | 256M |
 | 网卡1 | AMD PCnet32 (AMD Am79C973 Fast Ethernet 控制器) |
 | 网卡2 | AMD PCnet32 (AMD Am79C973 Fast Ethernet 控制器) |
-| 硬盘控制器 | 英特尔 PIIX4E IDE 模式(Intel 82371EB PCI-IDE 控制器) |
+| 硬盘控制器 | 英特尔 PIIX4E IDE 模式 (Intel 82371EB PCI-IDE 控制器) |
 | 硬盘 | QEMU 硬盘 (容量 20G) |
 | DVD/CD-ROM | QEMU DVD-ROM |
 
@@ -39,7 +39,7 @@ MIPS Technologies Incorporation Malta CoreLV 主板
 ## 默认操作系统设置
  OpenWrt 23.05 虚拟目标操作系统设置
 | 参数 | 设置 |
-|-----|------|
+|------|------|
 | 系统用户账号 | root |
 | 系统用户密码 | qkd1234567 |
 | 系统 SSH 端口 | 50022 |
@@ -52,7 +52,7 @@ MIPS Technologies Incorporation Malta CoreLV 主板
 ## 参考虚拟机系统配置
  OpenWrt 23.05 虚拟目标操作系统设置
 | 宿主机系统 | 目标虚拟机 | 配置文件 |
-|-----|------|------|
+|------------|------------|---------|
 | Windows(x86_64) | Q35/x86_64 | [Windows-Q35_x86_64-vmos.toml](https://gitlab.com/david921518/qkd-app/blob/gitlab/doc/vmos-examples/OpenWrt2305/Windows-Q35_x86_64-vmos.toml) |
 | Windows(x86_64) | armvirt/armv8 | [Windows-armvirt_armv8-vmos.toml](https://gitlab.com/david921518/qkd-app/blob/gitlab/doc/vmos-examples/OpenWrt2305/Windows-armvirt_armv8-vmos.toml) |
 | Windows(x86_64) | Malta/mips_be | [Windows-Malta_mips-vmos.toml](https://gitlab.com/david921518/qkd-app/blob/gitlab/doc/vmos-examples/OpenWrt2305/Windows-Malta_mips-vmos.toml) |
