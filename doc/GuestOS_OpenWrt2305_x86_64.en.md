@@ -1,5 +1,5 @@
 # OpenWrt 23.05 x86_64 GuestOS
- [return to README](https://gitee.com/david921518/qkd-app/blob/gitee/README.en.md)
+ [return to README](https://github.com/david921518/qkd-app/blob/master/README.en.md)
    
 ## Default Virtual Machine
  Intel Q35 Chipset Board
@@ -30,10 +30,10 @@
  OpenWrt 23.05 x86_64 VMOS Configuration
 | Guest Operating System | Link |
 |-----|------|
-| Windows | [Windows-Q35_x86_64-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/Windows-Q35_x86_64-vmos.toml) |
-| Ubuntu/Linux | [Ubuntu_Linux-Q35_x86_64-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/Ubuntu_Linux-Q35_x86_64-vmos.toml) |
-| macOS | [macOS-Q35_x86_64-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/macOS-Q35_x86_64-vmos.toml) |
-| More... | [doc/vmos-examples/openwrt2305/](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/README.en.md) |
+| Windows | [Windows-Q35_x86_64-vmos.toml](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/OpenWrt2305/Windows-Q35_x86_64-vmos.toml) |
+| Ubuntu/Linux | [Ubuntu_Linux-Q35_x86_64-vmos.toml](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/OpenWrt2305/Ubuntu_Linux-Q35_x86_64-vmos.toml) |
+| macOS | [macOS-Q35_x86_64-vmos.toml](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/OpenWrt2305/macOS-Q35_x86_64-vmos.toml) |
+| More... | [doc/vmos-examples/openwrt2305/](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/OpenWrt2305/README.en.md) |
 
 ## Reference
 - 1 [OpenWrt 23.05](https://openwrt.org/releases/23.05/start)

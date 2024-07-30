@@ -1,5 +1,5 @@
 # OpenWrt 23.05 GuestOS
-  [return to README](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/README.en.md)
+  [return to README](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/README.en.md)
   
 ## Default Virtual Machine
  Intel Q35 Chipset Board
@@ -53,12 +53,12 @@ MIPS Technologies Incorporation Malta CoreLV board
  OpenWrt 23.05 VMOS Configuration
 | Host Operating System | Guest Operating System | Link |
 |-----------------------|------------------------|------|
-| Windows(x86_64) | Q35/x86_64 | [Windows-Q35_x86_64-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/Windows-Q35_x86_64-vmos.toml) |
-| Windows(x86_64) | armvirt/armv8 | [Windows-armvirt_armv8-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/Windows-armvirt_armv8-vmos.toml) |
-| Windows(x86_64) | Malta/mips_be | [Windows-Malta_mips-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/Windows-Malta_mips-vmos.toml) |
-| Ubuntu/Linux(x86_64) | Q35/x86_64 | [Ubuntu_Linux-Q35_x86_64-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/Ubuntu_Linux-Q35_x86_64-vmos.toml) |
-| macOS(x86_64) | Q35/x86_64 | [macOS-Q35_x86_64-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/macOS-Q35_x86_64-vmos.toml) |
-| More... | all | [doc/vmos-examples/openwrt2305/](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/README.en.md) |
+| Windows(x86_64) | Q35/x86_64 | [Windows-Q35_x86_64-vmos.toml](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/OpenWrt2305/Windows-Q35_x86_64-vmos.toml) |
+| Windows(x86_64) | armvirt/armv8 | [Windows-armvirt_armv8-vmos.toml](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/OpenWrt2305/Windows-armvirt_armv8-vmos.toml) |
+| Windows(x86_64) | Malta/mips_be | [Windows-Malta_mips-vmos.toml](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/OpenWrt2305/Windows-Malta_mips-vmos.toml) |
+| Ubuntu/Linux(x86_64) | Q35/x86_64 | [Ubuntu_Linux-Q35_x86_64-vmos.toml](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/OpenWrt2305/Ubuntu_Linux-Q35_x86_64-vmos.toml) |
+| macOS(x86_64) | Q35/x86_64 | [macOS-Q35_x86_64-vmos.toml](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/OpenWrt2305/macOS-Q35_x86_64-vmos.toml) |
+| More... | all | [doc/vmos-examples/openwrt2305/](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/OpenWrt2305/README.en.md) |
 
 ## Reference
 - 1 [OpenWrt 23.05](https://openwrt.org/releases/23.05/start)
