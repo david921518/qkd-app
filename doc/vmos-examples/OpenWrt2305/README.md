@@ -1,5 +1,5 @@
 # OpenWrt 23.05 虚拟目标操作系统
-  [返回自述](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/README.md)
+  [返回自述](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/README.md)
   
 ## 默认虚拟机
  采用Intel Q35芯片组的主板
@@ -53,12 +53,12 @@ MIPS Technologies Incorporation Malta CoreLV 主板
  OpenWrt 23.05 虚拟目标操作系统设置
 | 宿主机系统 | 目标虚拟机 | 配置文件 |
 |------------|------------|---------|
-| Windows(x86_64) | Q35/x86_64 | [Windows-Q35_x86_64-vmos.toml](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/OpenWrt2305/Windows-Q35_x86_64-vmos.toml) |
-| Windows(x86_64) | armvirt/armv8 | [Windows-armvirt_armv8-vmos.toml](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/OpenWrt2305/Windows-armvirt_armv8-vmos.toml) |
-| Windows(x86_64) | Malta/mips_be | [Windows-Malta_mips-vmos.toml](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/OpenWrt2305/Windows-Malta_mips-vmos.toml) |
-| Ubuntu/Linux(x86_64) | Q35/x86_64 | [Ubuntu_Linux-Q35_x86_64-vmos.toml](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/OpenWrt2305/Ubuntu_Linux-Q35_x86_64-vmos.toml) |
-| macOS(x86_64) | Q35/x86_64 | [macOS-Q35_x86_64-vmos.toml](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/OpenWrt2305/macOS-Q35_x86_64-vmos.toml) |
-| 更多信息 | all | [doc/vmos-examples/openwrt2305/](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/OpenWrt2305/README.md) |
+| Windows(x86_64) | Q35/x86_64 | [Windows-Q35_x86_64-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/Windows-Q35_x86_64-vmos.toml) |
+| Windows(x86_64) | armvirt/armv8 | [Windows-armvirt_armv8-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/Windows-armvirt_armv8-vmos.toml) |
+| Windows(x86_64) | Malta/mips_be | [Windows-Malta_mips-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/Windows-Malta_mips-vmos.toml) |
+| Ubuntu/Linux(x86_64) | Q35/x86_64 | [Ubuntu_Linux-Q35_x86_64-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/Ubuntu_Linux-Q35_x86_64-vmos.toml) |
+| macOS(x86_64) | Q35/x86_64 | [macOS-Q35_x86_64-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/macOS-Q35_x86_64-vmos.toml) |
+| 更多信息 | all | [doc/vmos-examples/openwrt2305/](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/README.md) |
 
 ## 参考资料
 - 1、 [OpenWrt 23.05](https://openwrt.org/zh/releases/23.05/start)
