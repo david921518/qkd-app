@@ -55,7 +55,7 @@ armvirt 64 variant 主板
 | Windows(x86_64) | armvirt/armv8 | [Windows-armvirt_armv8-vmos.toml](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/op-yz/Windows-armvirt_armv8-vmos.toml) |
 | Ubuntu/Linux(x86_64) | Q35/x86_64 | [Ubuntu_Linux-Q35_x86_64-vmos.toml](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/op-yz/Ubuntu_Linux-Q35_x86_64-vmos.toml) |
 | macOS(x86_64) | Q35/x86_64 | [macOS-Q35_x86_64-vmos.toml](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/op-yz/macOS-Q35_x86_64-vmos.toml) |
-| 更多信息 | all | [doc/vmos-examples/openwrt2305/](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/op-yz/README.md) |
+| 更多信息 | all | [doc/vmos-examples/op-yz/](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/op-yz/README.md) |
 
 ## 参考资料
 - 1、 [OpenWrt 23.05](https://openwrt.org/zh/releases/23.05/start)
