@@ -11,7 +11,9 @@
 ## 目录说明
  目录名为虚拟目标操作系统名，支持的系统如下
 | 虚拟目标操作系统 | 目录名 |
-|------|-----|
+|------------------|-----|
 | OpenWrt 23.05 | [OpenWrt2305](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/OpenWrt2305/README.md) |
 | Windows 10 | [Windows10](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/Windows10/README.md) |
 | macOS 12 (Monterey) | [macOS12](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/macOS12/README.md) |
+| OP/司马迁 | [op-smq](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/op-smq/README.md) |
+| OP/嬴政 | [op-smq](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/op-yz/README.md) |
