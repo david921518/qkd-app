@@ -14,5 +14,5 @@
 | OpenWrt 23.05 | [OpenWrt2305](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/OpenWrt2305/README.en.md) |
 | Windows 10 | [Windows10](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/Windows10/README.en.md) |
 | macOS 12 (Monterey) | [macOS12](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/macOS12/README.en.md) |
-| OP/SMQ | [op-smq](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/op-smq/README.en.md) |
-| OP/YZ | [op-yz](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/op-yz/README.en.md) |
+| OP/SMQ (SimaQian) | [op-smq](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/op-smq/README.en.md) |
+| OP/YZ (YingZheng) | [op-yz](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/op-yz/README.en.md) |
