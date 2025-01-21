@@ -39,3 +39,7 @@
 | Examples | Link |
 |---------|------|
 | Config List | [Link](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/README.en.md) |
+
+## Maintainer
+This project is maintained by Tang Hui (david921518@qq.com)
+
