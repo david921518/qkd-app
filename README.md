@@ -39,3 +39,7 @@
 | 实例 | 链接 |
 |---------|------|
 | 配置文件列表 | [链接](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/README.md) |
+
+## 项目维护
+
+本项目由唐辉(david921518@qq.com)发起并维护
