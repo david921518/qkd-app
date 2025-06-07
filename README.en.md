@@ -20,7 +20,7 @@
 | Linux | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/doc/HostOS_Linux.en.md) |
 | macOS | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/doc/HostOS_macOS.en.md) |
 | Android | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/doc/HostOS_Android.en.md) |
-| iOS | [Link](https://github.com/zetalabs/HostOS_iOS.en.md) |
+| iOS | [Link](https://github.com/david921518/qkd-app/blob/gitee/doc/HostOS_iOS.en.md) |
 | OpenHarmonyOS | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/doc/HostOS_OHOS.en.md) |
 
 ## Virtual Machine System
@@ -46,3 +46,8 @@
 | Examples | Link |
 |----------|------|
 | Config List | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/README.en.md) |
+
+## Maintainer
+
+  This project is maintained by Tang Hui (david921518@qq.com)
+

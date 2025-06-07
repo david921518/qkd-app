@@ -34,7 +34,7 @@
   KPCOS/炎帝 x86_64 虚拟目标操作系统设置
 
 | 宿主机系统 | 配置文件 |
-|------|------|
+|------------|----------|
 | Windows | [Windows-Q35_x86_64-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/KPCOS-YanDi/Windows-Q35_x86_64-vmos.toml) |
 | Ubuntu/Linux | [Ubuntu_Linux-Q35_x86_64-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/KPCOS-YanDi/Ubuntu_Linux-Q35_x86_64-vmos.toml) |
 | macOS | [macOS-Q35_x86_64-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/KPCOS-YanDi/macOS-Q35_x86_64-vmos.toml) |

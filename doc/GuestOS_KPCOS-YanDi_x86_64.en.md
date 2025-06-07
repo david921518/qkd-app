@@ -34,7 +34,7 @@
   KPCOS/YanDi x86_64 VMOS Configuration
 
 | Guest Operating System | Link |
-|-----|------|
+|------------------------|------|
 | Windows | [Windows-Q35_x86_64-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/KPCOS-YanDi/Windows-Q35_x86_64-vmos.toml) |
 | Ubuntu/Linux | [Ubuntu_Linux-Q35_x86_64-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/KPCOS-YanDi/Ubuntu_Linux-Q35_x86_64-vmos.toml) |
 | macOS | [macOS-Q35_x86_64-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/KPCOS-YanDi/macOS-Q35_x86_64-vmos.toml) |

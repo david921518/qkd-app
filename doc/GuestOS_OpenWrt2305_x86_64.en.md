@@ -40,7 +40,7 @@
 | Windows | [Windows-Q35_x86_64-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/Windows-Q35_x86_64-vmos.toml) |
 | Ubuntu/Linux | [Ubuntu_Linux-Q35_x86_64-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/Ubuntu_Linux-Q35_x86_64-vmos.toml) |
 | macOS | [macOS-Q35_x86_64-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/macOS-Q35_x86_64-vmos.toml) |
-| More... | [doc/vmos-examples/openwrt2305/](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/README.en.md) |
+| More... | [doc/vmos-examples/OpenWrt2305/](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/README.en.md) |
 
 ## Reference
 

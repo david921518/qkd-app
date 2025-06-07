@@ -7,7 +7,7 @@
   采用Intel Q35芯片组的主板
 
 | 硬件 | 配置 |
-|-----|------|
+|------|------|
 | CPU | Intel 酷睿2 i3 |
 | 内存 | 1G |
 | 网卡1 | 英特尔 E1000 (Intel 82540EM GigaNet) |
@@ -21,7 +21,7 @@
   OpenWrt 23.05 x86_64 虚拟目标操作系统设置
 
 | 参数 | 设置 |
-|-----|------|
+|------|------|
 | 系统用户账号 | root |
 | 系统用户密码 | qkd1234567 |
 | 系统 SSH 端口 | 50022 |
@@ -36,7 +36,7 @@
   OpenWrt 23.05 x86_64 虚拟目标操作系统设置
 
 | 宿主机系统 | 配置文件 |
-|-----|------|
+|------------|----------|
 | Windows | [Windows-Q35_x86_64-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/Windows-Q35_x86_64-vmos.toml) |
 | Ubuntu/Linux | [Ubuntu_Linux-Q35_x86_64-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/Ubuntu_Linux-Q35_x86_64-vmos.toml) |
 | macOS | [macOS-Q35_x86_64-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/macOS-Q35_x86_64-vmos.toml) |
