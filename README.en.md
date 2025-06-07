@@ -1,8 +1,8 @@
 # QianKunDai (Heaven and earth Bag)
 
- **QianKunDai (Qiankun Bag)** - a magical artifact with an infinitely spacious interior, which can contain anything.
+  **QianKunDai (Qiankun Bag)** - a magical artifact with an infinitely spacious interior, which can contain anything.
 
- **QiankunDai** software is a user-friendly virtual machine system management application. It utilizes [QEMU](https://www.qemu.org) at its core for hardware emulation, and the target operating system at the upper level is perfectly adapted to the emulated hardware.
+  **QiankunDai** software is a user-friendly virtual machine system management application. It utilizes [QEMU](https://www.qemu.org) at its core for hardware emulation, and the target operating system at the upper level is perfectly adapted to the emulated hardware.
 
 ## README
 
@@ -15,7 +15,8 @@
 
 | Operating System | Link |
 |------------------|------|
-| Windows  | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/doc/HostOS_Windows.en.md) |
+| KPCOS/YanDi | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/doc/HostOS_YanDi.en.md) |
+| Windows | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/doc/HostOS_Windows.en.md) |
 | Linux | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/doc/HostOS_Linux.en.md) |
 | macOS | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/doc/HostOS_macOS.en.md) |
 | Android | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/doc/HostOS_Android.en.md) |
@@ -43,5 +44,5 @@
 ## VMOS Examples
 
 | Examples | Link |
-|---------|------|
+|----------|------|
 | Config List | [Link](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/README.en.md) |

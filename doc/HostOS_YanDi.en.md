@@ -1,10 +1,10 @@
-# Windows HostOS
+# KPCOS/YanDi HostOS
 
   [return to README](https://gitee.com/david921518/qkd-app/blob/gitee/README.en.md)
   
 ## System Requirement
 
-  **QianKunDai** app only supports Windows 10 Pro edition and higher version, hardware configuration requirements are shown in the table below
+  **QianKunDai** app supports KPCOS/YanDi all editions and versions, hardware configuration requirements are shown in the table below
  
 | Hardware | Minimal Configuration | Recommended Configuration |
 |----------|-----------------------|---------------------------|

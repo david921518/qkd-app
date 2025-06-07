@@ -1,8 +1,11 @@
 # Windows 10 Pro x64 GuestOS
- [return to README](https://gitee.com/david921518/qkd-app/blob/gitee/README.en.md)
+
+  [return to README](https://gitee.com/david921518/qkd-app/blob/gitee/README.en.md)
    
 ## Default Virtual Machine
- Intel Q35 Chipset Board
+
+  Intel Q35 Chipset Board
+
 | Hardware | Configuration |
 |----------|---------------|
 | CPU | Intel Core2 i3 |
@@ -15,12 +18,15 @@
 | DVD/CD-ROM | QEMU DVD-ROM |
 
 ## Default GuestOS Settings
- Windows 10 Pro x64 GuestOS settings
+
+  Windows 10 Pro x64 GuestOS settings
+
 | Parameter | Settings |
 |-----------|----------|
 | System User Account | qkd |
 | System User Password | qkd123 |
 
 ## Reference
+
 - 1 [Download Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
 - 2 [Intel® Q35 Express Chipset for Embedded Computing](https://www.intel.cn/content/dam/www/public/us/en/documents/product-briefs/q35-chipset-brief.pdf)

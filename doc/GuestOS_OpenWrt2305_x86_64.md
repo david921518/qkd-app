@@ -1,8 +1,11 @@
 # OpenWrt 23.05 x86_64 虚拟目标操作系统
+
   [返回自述](https://gitee.com/david921518/qkd-app/blob/gitee/README.md)
   
 ## 默认虚拟机
- 采用Intel Q35芯片组的主板
+
+  采用Intel Q35芯片组的主板
+
 | 硬件 | 配置 |
 |-----|------|
 | CPU | Intel 酷睿2 i3 |
@@ -14,7 +17,9 @@
 | DVD/CD-ROM | QEMU DVD-ROM |
 
 ## 默认操作系统设置
- OpenWrt 23.05 x86_64 虚拟目标操作系统设置
+
+  OpenWrt 23.05 x86_64 虚拟目标操作系统设置
+
 | 参数 | 设置 |
 |-----|------|
 | 系统用户账号 | root |
@@ -27,7 +32,9 @@
 | docker 接口 | docker0 |
 
 ## 参考虚拟机系统配置
- OpenWrt 23.05 x86_64 虚拟目标操作系统设置
+
+  OpenWrt 23.05 x86_64 虚拟目标操作系统设置
+
 | 宿主机系统 | 配置文件 |
 |-----|------|
 | Windows | [Windows-Q35_x86_64-vmos.toml](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/Windows-Q35_x86_64-vmos.toml) |
@@ -36,5 +43,6 @@
 | 更多信息 | [doc/vmos-examples/openwrt2305/](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/OpenWrt2305/README.md) |
 
 ## 参考资料
+
 - 1、 [OpenWrt 23.05](https://openwrt.org/zh/releases/23.05/start)
 - 2、 [Intel® Q35 Express Chipset for Embedded Computing](https://www.intel.cn/content/dam/www/public/us/en/documents/product-briefs/q35-chipset-brief.pdf)

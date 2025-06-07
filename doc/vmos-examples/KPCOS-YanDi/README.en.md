@@ -4,7 +4,7 @@
   
 ## Default Virtual Machine
 
- Intel Q35 Chipset Board
+  **Intel Q35 Chipset Board**
 
 | Hardware | Configuration |
 |----------|---------------|
@@ -15,7 +15,7 @@
 | Hard Disk | QEMU HARDDISK (Storage size 40G) |
 | DVD/CD-ROM | QEMU DVD-ROM |
 
- armvirt 64 variant board
+  **armvirt 64 variant board**
 
 | Hardware | Configuration |
 |----------|---------------|
@@ -28,7 +28,7 @@
 
 ## Default GuestOS Settings
 
- KPCOS/YanDi GuestOS settings
+  **KPCOS/YanDi GuestOS settings**
 
 | Parameter | Settings |
 |-----------|----------|
@@ -43,7 +43,7 @@
 
 ## VMOS Examples
 
- KPCOS/YanDi VMOS Configuration
+  **KPCOS/YanDi VMOS Configuration**
 
 | Host Operating System | Guest Operating System | Link |
 |-----------------------|------------------------|------|
@@ -54,6 +54,7 @@
 | More... | all | [doc/vmos-examples/KPCOS-YanDi/](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/KPCOS-YanDi/README.en.md) |
 
 ## Reference
+
 - 1 [KPCOS/YanDi](https://gitee.com/m8t/kpcos/tree/master/distro/yandi)
 - 2 [Intel® Q35 Express Chipset for Embedded Computing](https://www.intel.cn/content/dam/www/public/us/en/documents/product-briefs/q35-chipset-brief.pdf)
 - 3 [QEMU ARM ‘virt’ generic virtual platform (virt)](https://www.qemu.org/docs/master/system/arm/virt.html)

@@ -15,7 +15,9 @@
 
 | 操作系统 | 链接 |
 |----------|------|
-| Windows  | [链接](https://gitee.com/david921518/qkd-app/blob/gitee/doc/HostOS_Windows.md) |
+| KPCOS/炎帝 | [链接](https://gitee.com/david921518/qkd-app/blob/gitee/doc/HostOS_YanDi.md) |
+| Linux | [链接](https://gitee.com/david921518/qkd-app/blob/gitee/doc/HostOS_Linux.md) |
+| Windows | [链接](https://gitee.com/david921518/qkd-app/blob/gitee/doc/HostOS_Windows.md) |
 | Linux | [链接](https://gitee.com/david921518/qkd-app/blob/gitee/doc/HostOS_Linux.md) |
 | macOS | [链接](https://gitee.com/david921518/qkd-app/blob/gitee/doc/HostOS_macOS.md) |
 | Android | [链接](https://gitee.com/david921518/qkd-app/blob/gitee/doc/HostOS_Android.md) |
@@ -32,7 +34,7 @@
 
 | 操作系统 | 链接 |
 |----------|------|
-| KPCOS/YanDi (x86_64) | [系统自述](https://gitee.com/david921518/qkd-app/blob/gitee/doc/GuestOS_KPCOS-YanDi_x86_64.md) |
+| KPCOS/炎帝 (x86_64) | [系统自述](https://gitee.com/david921518/qkd-app/blob/gitee/doc/GuestOS_KPCOS-YanDi_x86_64.md) |
 | OpenWrt 23.05 (x86_64) | [系统自述](https://gitee.com/david921518/qkd-app/blob/gitee/doc/GuestOS_OpenWrt2305_x86_64.md) |
 | Windows 10 专业版 (x86_64) | [系统自述](https://gitee.com/david921518/qkd-app/blob/gitee/doc/GuestOS_Windows10_Pro_x64.md) |
 | Debian 12 (x86_64) | [系统自述](https://gitee.com/david921518/qkd-app/blob/gitee/doc/GuestOS_Debian12_amd64.md) |
@@ -43,5 +45,5 @@
 ## 虚拟机系统实例（VMOS）
 
 | 实例 | 链接 |
-|---------|------|
+|------|------|
 | 配置文件列表 | [链接](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/README.md) |

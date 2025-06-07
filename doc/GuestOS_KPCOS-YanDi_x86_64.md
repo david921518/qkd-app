@@ -4,7 +4,7 @@
   
 ## 默认虚拟机
 
- 采用Intel Q35芯片组的主板
+  采用Intel Q35芯片组的主板
 
 | 硬件 | 配置 |
 |------|------|
@@ -17,7 +17,7 @@
 
 ## 默认操作系统设置
 
- KPCOS/炎帝 x86_64 虚拟目标操作系统设置
+  KPCOS/炎帝 x86_64 虚拟目标操作系统设置
 
 | 参数 | 设置 |
 |------|------|
@@ -31,7 +31,7 @@
 
 ## 参考虚拟机系统配置
 
- KPCOS/炎帝 x86_64 虚拟目标操作系统设置
+  KPCOS/炎帝 x86_64 虚拟目标操作系统设置
 
 | 宿主机系统 | 配置文件 |
 |------|------|
@@ -41,5 +41,6 @@
 | 更多信息 | [doc/vmos-examples/KPCOS-YanDi/](https://gitee.com/david921518/qkd-app/blob/gitee/doc/vmos-examples/KPCOS-YanDi/README.md) |
 
 ## 参考资料
+
 - 1、 [KPCOS/炎帝](https://gitee.com/m8t/kpcos/tree/master/distro/yandi)
 - 2、 [Intel® Q35 Express Chipset for Embedded Computing](https://www.intel.cn/content/dam/www/public/us/en/documents/product-briefs/q35-chipset-brief.pdf)
