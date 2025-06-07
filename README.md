@@ -28,6 +28,7 @@
 ## 虚拟目标操作系统 (GuestOS)
 | 操作系统 | 链接 |
 |---------|------|
+| KPCOS/炎帝 (x86_64) | [系统自述](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_KPCOS-YanDi_x86_64.md) |
 | OpenWrt 23.05 (x86_64) | [系统自述](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_OpenWrt2305_x86_64.md) |
 | Windows 10 专业版 (x86_64) | [系统自述](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_Windows10_Pro_x64.md) |
 | Debian 12 (x86_64) | [系统自述](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_Debian12_amd64.md) |

@@ -28,6 +28,7 @@
 ## GuestOS
 | Operating System | Link |
 |------------------|------|
+| KPCOS/YanDi (x86_64) | [Link](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_KPCOS-YanDi_x86_64.en.md) |
 | OpenWrt 23.05 (x86_64) | [Link](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_OpenWrt2305_x86_64.en.md) |
 | Windows 10 Pro (X86-64) | [Link](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_Windows10_Pro_x64.en.md) |
 | Debian 12 (X86-64) | [Link](https://github.com/david921518/qkd-app/blob/master/doc/GuestOS_Debian12_amd64.en.md) |
