@@ -4,7 +4,7 @@
   
 ## 默认虚拟机
 
- 采用Intel Q35芯片组的主板
+  **采用 Intel Q35 芯片组的主板**
 
 | 硬件 | 配置 |
 |------|------|
@@ -15,7 +15,7 @@
 | 硬盘 | QEMU 硬盘 (容量 40G) |
 | DVD/CD-ROM | QEMU DVD-ROM |
 
-armvirt 64 variant 主板
+  **armvirt 64 variant 主板**
 
 | 硬件 | 配置 |
 |------|------|
@@ -28,7 +28,7 @@ armvirt 64 variant 主板
 
 ## 默认操作系统设置
 
- KPCOS/炎帝 虚拟目标操作系统设置
+  **KPCOS/炎帝 虚拟目标操作系统设置**
 
 | 参数 | 设置 |
 |------|------|
@@ -42,7 +42,7 @@ armvirt 64 variant 主板
 
 ## 参考虚拟机系统配置
 
- KPCOS/炎帝 虚拟目标操作系统设置
+  **KPCOS/炎帝 虚拟目标操作系统设置**
 
 | 宿主机系统 | 目标虚拟机 | 配置文件 |
 |------------|------------|---------|
@@ -53,6 +53,7 @@ armvirt 64 variant 主板
 | 更多信息 | all | [doc/vmos-examples/KPCOS-YanDi/](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/KPCOS-YanDi/README.md) |
 
 ## 参考资料
+
 - 1、 [KPCOS/炎帝](https://gitee.com/m8t/kpcos/tree/master/distro/yandi)
 - 2、 [Intel® Q35 Express Chipset for Embedded Computing](https://www.intel.cn/content/dam/www/public/us/en/documents/product-briefs/q35-chipset-brief.pdf)
 - 3、 [QEMU ARM ‘virt’ generic virtual platform (virt)](https://www.qemu.org/docs/master/system/arm/virt.html)
