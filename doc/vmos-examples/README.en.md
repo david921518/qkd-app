@@ -15,6 +15,7 @@
 
 | Guest Operating System | Directory Name |
 |------|-----|
+| KPCOS/HuangDi | [OpenWrt2305](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/KPCOS-HuangDi/README.en.md) |
 | KPCOS/YanDi | [OpenWrt2305](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/KPCOS-YanDi/README.en.md) |
 | OpenWrt 23.05 | [OpenWrt2305](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/OpenWrt2305/README.en.md) |
 | Windows 10 | [Windows10](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/Windows10/README.en.md) |

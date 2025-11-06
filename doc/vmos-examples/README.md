@@ -16,6 +16,7 @@
 
 | 虚拟目标操作系统 | 目录名 |
 |------------------|-----|
+| KPCOS/黄帝 | [KPCOS-HuangDi](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/KPCOS-HuangDi/README.md) |
 | KPCOS/炎帝 | [KPCOS-YanDi](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/KPCOS-YanDi/README.md) |
 | OpenWrt 23.05 | [OpenWrt2305](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/OpenWrt2305/README.md) |
 | Windows 10 | [Windows10](https://github.com/david921518/qkd-app/blob/master/doc/vmos-examples/Windows10/README.md) |
