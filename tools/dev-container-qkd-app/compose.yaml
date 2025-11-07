@@ -1,0 +1,15 @@
+version: "3"
+services:
+  devcontainer:
+    build:
+      containerfile: "./Containerfile"
+    environment:
+      - "DISPLAY"
+    network_mode: "host"
+    tty: true
+    volumes:
+      - "./.cache/cargo:/usr/local/cargo/registry"
+      - "./.cache/gradle:/root/.gradle"
+      - "./.cache/licenses:/usr/lib/android-sdk/licenses"
+      - "./app:/app"
+    working_dir: "/app"
