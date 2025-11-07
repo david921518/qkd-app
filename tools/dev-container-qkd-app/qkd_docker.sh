@@ -87,7 +87,7 @@ function docker_run() {
     WORK_DIR="$(pwd)"
   fi
 
-  docker run --name qkd-dev-x86-64 \
+  docker run --name ${USER}-build-qkd-qpp \
         -it -d --user "$(id -u):$(id -g)" \
         --volume "/etc/passwd:/etc/passwd" -v /etc/shadow:/etc/shadow:ro  -v /etc/group:/etc/group:ro \
         --volume "${HOME}:${HOME}" \

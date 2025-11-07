@@ -16,7 +16,7 @@
 ./qkd_docker.sh docker-debian-qkd-dev save
 
 4.  进入 docker 运行环境
-docker attach qkd-dev-x86-64
+docker attach ${USER}-build-qkd-app
 
 5.  构建乾坤袋软件包
 ./build-qkd-app.sh
